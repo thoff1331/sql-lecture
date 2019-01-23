@@ -14,11 +14,10 @@
 - What is the syntax for creating a new table?
 
 - Create a student table with this schema:
-
-* id - integer - primary key autoincrement
-* first_name - varchar(255)
-* hometown - varchar(255)
-* fun_fact - text
+  - id - integer - primary key autoincrement
+  - first_name - varchar(255)
+  - hometown - varchar(255)
+  - fun_fact - text
 
 ## Inserting Data (Section 9)
 
