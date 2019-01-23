@@ -25,19 +25,21 @@
 - What is the syntax for inserting values into a table?
 
 - Insert the following data into the student table from above:
-  first_name: 'Logan'
+  
+  ```first_name: 'Eric'
   hometown: 'Dallas'
-  fun_fact: NULL
+  fun_fact: NULL```
 
-first_name: 'Garrett'
+ ```first_name: 'James'
 hometown: 'Dallas'
 fun_fact: 'Postgres is progress.'
+```
 
 ## Updating Data (Section 9)
 
 - What is the syntax for updating existing values in a table?
 
-- Update Logan's fun_fact to be 'I love SQL' using his id.
+- Update Eric's fun_fact to be 'I love SQL' using his id.
 
 ## Querying Data (Section 2 and 3)
 
