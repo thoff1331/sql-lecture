@@ -14,7 +14,7 @@
 - What is the syntax for creating a new table?
 
 - On <http://postgres.devmountain.com> , create a student table with this schema:
-  - id - integer - primary key autoincrement
+  - id - serial
   - first_name - varchar(255)
   - hometown - varchar(255)
   - fun_fact - text
