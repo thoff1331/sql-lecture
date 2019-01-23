@@ -26,14 +26,17 @@
 
 - Insert the following data into the student table from above:
   
-  ```first_name: 'Eric'
+  ```
+  first_name: 'Eric'
   hometown: 'Dallas'
-  fun_fact: NULL```
-
- ```first_name: 'James'
-hometown: 'Dallas'
-fun_fact: 'Postgres is progress.'
-```
+  fun_fact: NULL
+  ```
+  
+  ```
+  first_name: 'James'
+  hometown: 'Dallas'
+  fun_fact: 'Postgres is progress.'
+  ```
 
 ## Updating Data (Section 9)
 
